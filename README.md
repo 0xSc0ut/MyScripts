@@ -1,1 +1,1 @@
-# Scripts useful in my daily life
+# Scripts for myself
